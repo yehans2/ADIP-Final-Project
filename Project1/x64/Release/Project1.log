@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+C:\Users\U06127011\Desktop\practice\GUI\Project1\MyForm.cpp(232,3): warning C4551: function call missing argument list
+C:\Users\U06127011\Desktop\practice\GUI\Project1\MyForm.cpp(250,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\U06127011\Desktop\practice\GUI\Project1\MyForm.cpp(273,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\cuda.inl.hpp(487): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\fast_math.hpp(318): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\fast_math.hpp(319): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> C:\Users\U06127011\Desktop\practice\GUI\Project1\x64\Release\Project1.exe
