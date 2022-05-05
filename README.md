@@ -15,5 +15,9 @@ the satellite image, then using the extracted road to make the navigation functi
 ![image](https://user-images.githubusercontent.com/91001059/166906635-6361bf7a-7afb-45ec-94f4-2ec2723619cb.png)
 * using BFS to find the closet navigation 
 
+## GUI
+![image](https://user-images.githubusercontent.com/91001059/166907535-08d87a79-b0cd-4b00-ac4e-1cc2e0ad5352.png)
+* using C++ windows Forms to design a GUI for this project
+
 
 
